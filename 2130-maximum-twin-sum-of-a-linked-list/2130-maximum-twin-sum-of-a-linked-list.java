@@ -17,12 +17,13 @@ class Solution {
         l.add(temp.val);
         temp = temp.next;
        } 
-       System.out.println(l);
        int n= l.size();
        int max =0;
        for(int i=0;i<n/2;i++)
        {
-          max = Math.max((l.get(i)+l.get(n-1-i)),max);
+        int s=l.get(i)+l.get(n-1-i);
+         if(s>max)
+          max = s;
        }
     return max;
     }
