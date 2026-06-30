@@ -32,9 +32,9 @@ class Solution {
 
         int max = 0;
         while (newhead != null) {
-            int s = newhead.val + temp.val;
-            if (s > max)
-                max = s;
+            
+            if ((newhead.val + temp.val)> max)
+                max = newhead.val + temp.val;
             newhead = newhead.next;
             temp = temp.next;
         }
