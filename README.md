@@ -31,9 +31,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
