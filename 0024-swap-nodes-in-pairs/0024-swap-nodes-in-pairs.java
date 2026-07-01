@@ -18,13 +18,13 @@ class Solution {
         while(pre != null)
         {
             ListNode post = temp.next;
-            ListNode dummy =pre;
+            ListNode preswaptail =pre;
              temp.next = pre;
             pre.next = post;
             pre = pre.next;
             if(pre == null || pre.next == null)break;
             temp = pre.next;
-            dummy.next = temp;
+            preswaptail.next = temp;
            
         }
         return head;
