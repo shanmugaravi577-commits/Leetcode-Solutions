@@ -34,14 +34,13 @@ class Solution {
     ListNode t3 = dummy;
    while(t1 != null && t2 != null)
    {
-     ListNode po1 = t1.next;
-     ListNode po2 = t2.next;
+   
      t3.next = t1;
-     t1=po1;
+     t1=t1.next;
      t3=t3.next;
      t3.next = t2;
      t3=t3.next;
-     t2=po2;
+     t2=t2.next;
    }
    if(t1 != null)
    {
