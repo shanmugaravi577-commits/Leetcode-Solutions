@@ -55,4 +55,8 @@
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
