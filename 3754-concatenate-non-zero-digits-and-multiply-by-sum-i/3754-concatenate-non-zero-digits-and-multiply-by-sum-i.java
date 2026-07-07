@@ -9,7 +9,7 @@ class Solution {
             char c = s.charAt(i);
             if((c-'0') != 0)
             {
-                x=(x*10)+(c-'0');
+                x=x*10+(c-'0');
                 sum+=(c-'0');
             }
         }
