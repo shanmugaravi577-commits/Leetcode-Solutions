@@ -6,11 +6,11 @@ class Solution {
         int sum =0;
         for(int i=0;i<m;i++)
         {
-            char c = s.charAt(i);
-            if((c-'0') != 0)
+            int c = s.charAt(i)-'0';
+            if(c != 0)
             {
-                x=x*10+(c-'0');
-                sum+=(c-'0');
+                x=x*10+c;
+                sum+=c;
             }
         }
    
