@@ -12,16 +12,18 @@ class Solution {
                 i++;
                 continue;
             }
-            if(! Character.isLetter(c[j]))
+            else if(! Character.isLetter(c[j]))
             {
                 j--;
                 continue;
             }
+           
             char temp = c[i];
             c[i] = c[j];
             c[j]=temp; 
             i++;
             j--;
+            
         }
     return new String(c);
        
