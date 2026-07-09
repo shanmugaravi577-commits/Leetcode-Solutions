@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0143-reorder-list) |
+| [0349-intersection-of-two-arrays](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0917-reverse-only-letters](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -67,4 +70,12 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
