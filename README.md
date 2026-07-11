@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
@@ -47,6 +48,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0349-intersection-of-two-arrays](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0392-is-subsequence) |
@@ -77,5 +79,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
