@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0143-reorder-list) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -81,4 +83,8 @@
 | ------- |
 | [0075-sort-colors](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
