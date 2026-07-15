@@ -23,6 +23,7 @@
 | [0917-reverse-only-letters](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
 | [2390-removing-stars-from-a-string](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3794-reverse-string-prefix](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0917-reverse-only-letters](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3794-reverse-string-prefix](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Recursion
 |  |
 | ------- |
