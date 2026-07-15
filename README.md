@@ -12,6 +12,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2460-apply-operations-to-an-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [3794-reverse-string-prefix](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Recursion
 |  |
@@ -91,11 +93,13 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -105,4 +109,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Greedy
+|  |
+| ------- |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 <!---LeetCode Topics End-->
