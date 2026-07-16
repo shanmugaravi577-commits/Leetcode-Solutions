@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0092-reverse-linked-list-ii](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
