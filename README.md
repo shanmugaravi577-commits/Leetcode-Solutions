@@ -11,6 +11,7 @@
 | [0739-daily-temperatures](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2367-number-of-arithmetic-triplets](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Hash Table
@@ -18,6 +19,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2367-number-of-arithmetic-triplets](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 ## String
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2367-number-of-arithmetic-triplets](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [3794-reverse-string-prefix](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
@@ -117,4 +120,8 @@
 |  |
 | ------- |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
