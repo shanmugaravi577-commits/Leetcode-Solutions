@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1669-merge-in-between-linked-lists) |
@@ -63,6 +64,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0189-rotate-array) |
