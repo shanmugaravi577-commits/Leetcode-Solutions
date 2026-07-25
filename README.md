@@ -93,6 +93,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
@@ -111,6 +112,7 @@
 | [0147-insertion-sort-list](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+| [3536-maximum-product-of-two-digits](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
