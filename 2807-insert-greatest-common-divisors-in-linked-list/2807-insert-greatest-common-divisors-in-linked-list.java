@@ -21,29 +21,18 @@ class Solution {
     }
     public ListNode insertGreatestCommonDivisors(ListNode head) {
         if(head == null||head.next == null)return head;
-        List<Integer> l = new ArrayList<>();
-        ListNode temp = head;
-        while(temp != null)
+        ListNode t1 = head;
+       ListNode t2 =head.next; 
+        while(t2 != null)
         {
-            l.add(temp.val);
-            temp =temp.next;
+            int g = gcd(t1.val,t2.val);
+            ListNode newnode = new ListNode(g);
+            newnode.next =t1.next;
+            t1.next =newnode;
+            t1=t1.next.next;
+            t2=t2.next;
         }
-        System.out.println(l);
-        
-        for(int i=0;i<l.size()-1;i++)
-        {
-            int g = gcd(l.get(i),l.get(i+1));
-            l.add(i+1,g);
-            i++;
-        }
-        
-        ListNode res = new ListNode(-1);
-       temp =res;
-       for(int k:l)
-       {
-        temp.next = new ListNode(k);
-        temp =temp.next;
-       }
-    return res.next;
+
+      return head;  
     }
 }
