@@ -15,12 +15,14 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+| [3731-find-missing-elements](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [3731-find-missing-elements](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [3536-maximum-product-of-two-digits](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
