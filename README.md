@@ -12,6 +12,7 @@
 | [0739-daily-temperatures](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1528-shuffle-string](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -34,6 +35,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0917-reverse-only-letters](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
+| [1528-shuffle-string](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [2000-reverse-prefix-of-word](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
