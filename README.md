@@ -88,6 +88,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2396-strictly-palindromic-number](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2460-apply-operations-to-an-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [3794-reverse-string-prefix](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
@@ -107,6 +108,7 @@
 | [0189-rotate-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [2396-strictly-palindromic-number](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3536-maximum-product-of-two-digits](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -158,4 +160,8 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
