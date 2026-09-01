@@ -15,6 +15,7 @@
 | [1528-shuffle-string](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2367-number-of-arithmetic-triplets](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
@@ -27,6 +28,7 @@
 | [0001-two-sum](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0349-intersection-of-two-arrays](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2367-number-of-arithmetic-triplets](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
@@ -172,4 +174,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 <!---LeetCode Topics End-->
