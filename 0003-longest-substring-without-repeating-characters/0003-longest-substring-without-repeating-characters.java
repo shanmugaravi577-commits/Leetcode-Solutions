@@ -11,11 +11,13 @@ class Solution {
          if(map.containsKey(c[i]))
          {
             max=Math.max(max,stk.size());
+            
             while(!stk.isEmpty())
             {
                 stk.pop();
-                map.clear();
+                
             }
+            map.clear();
             i= ++j;
             stk.push(c[i]);
             map.put(c[i],1);
