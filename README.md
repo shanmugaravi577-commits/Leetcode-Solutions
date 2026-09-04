@@ -31,6 +31,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0347-top-k-frequent-elements](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2367-number-of-arithmetic-triplets](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -41,6 +42,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0917-reverse-only-letters](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Linked List
@@ -114,6 +117,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Math
 |  |
