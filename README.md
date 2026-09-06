@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0347-top-k-frequent-elements](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -139,6 +140,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0349-intersection-of-two-arrays](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Sorting
@@ -192,6 +194,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
