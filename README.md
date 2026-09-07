@@ -12,6 +12,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -193,6 +194,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 ## Divide and Conquer
 |  |
