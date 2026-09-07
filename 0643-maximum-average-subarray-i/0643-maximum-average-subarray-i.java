@@ -10,14 +10,14 @@ sum+=nums[i];
 if(i-j+1>k)
 {
     sum-=nums[j];
-    
+ 
     j++;
 }
 if(i-j+1==k)
 {
   
     ans=Math.max((double)sum/k,ans);
-  
+
 }
         }
   return ans;
