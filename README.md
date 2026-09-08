@@ -133,6 +133,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3870-count-commas-in-range](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
